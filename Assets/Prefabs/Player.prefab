@@ -26,8 +26,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 697396348829431738}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.7889, y: 0.7974, z: 1}
+  m_LocalPosition: {x: -0.3986, y: -0.8591, z: 0}
+  m_LocalScale: {x: 0.47870454, y: 0.44981337, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 697396349553117633}
@@ -119,7 +119,7 @@ GameObject:
   - component: {fileID: 697396349553117634}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -152,9 +152,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d2e7026ec4e19e43b64d100c37dcdd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 3
+  speed: 4
   lives: 3
   jumpForce: 15
+  coins: 0
 --- !u!50 &697396349553117635
 Rigidbody2D:
   serializedVersion: 4
@@ -167,10 +168,10 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 1.2
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 2
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
@@ -189,6 +190,6 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.2543586, y: -0.08478618}
-  m_Size: {x: 1.0765463, y: 2.7974672}
+  m_Offset: {x: 0.26504898, y: -0.11779952}
+  m_Size: {x: 1.1943455, y: 2.856367}
   m_Direction: 0
