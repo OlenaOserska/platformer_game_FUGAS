@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: c932090da6b208d429490888ea923eee
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Breath_of_Fire_2_-_Fire_Background-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 335
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3866ec33cdc01428cb4e8e7a51a4d4
+      internalID: -435199022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Breath_of_Fire_2_-_Fire_Background-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 275
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782ee7a9cfa42f043988f002eb27e0c2
+      internalID: -244642058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Breath_of_Fire_2_-_Fire_Background-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 186
+        width: 169
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870745d6d5963bb47892fd466549d4c0
+      internalID: 1489558168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Breath_of_Fire_2_-_Fire_Background-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 186
+        width: 167
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84aa0cc98aa919841a09f7359816195e
+      internalID: 1181314340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Breath_of_Fire_2_-_Fire_Background-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 186
+        width: 168
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f10d8f4bb061914f91d568ea4bb0c2e
+      internalID: 1714282418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Breath_of_Fire_2_-_Fire_Background-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 167
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7491e6ce36a1398439bce716e042bc14
+      internalID: 895397761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Breath_of_Fire_2_-_Fire_Background-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 73
+        width: 167
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64df6f6b3ce8e74a8976ffaf7b1687f
+      internalID: 1777257378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Breath_of_Fire_2_-_Fire_Background-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 73
+        width: 167
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3294697a0821b4144a5fe6fd944cec9a
+      internalID: -1077650950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Breath_of_Fire_2_-_Fire_Background-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 179
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a61386e4b310c43ae9a579592bf248
+      internalID: -217594592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Breath_of_Fire_2_-_Fire_Background-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 73
+        width: 167
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1289597aab7b45943a0e7b9bf178c30d
+      internalID: 1911248887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Breath_of_Fire_2_-_Fire_Background-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 73
+        width: 167
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15333f49d5cd01a41ae24d0286437db3
+      internalID: 65617157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Breath_of_Fire_2_-_Fire_Background-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 179
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96575d91f6a96c439b300abcc0f3b9c
+      internalID: -1655865592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Breath_of_Fire_2_-_Fire_Background-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 62
+        width: 38
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a8d7ce86ee67a479d5b4cc01c86ad1
+      internalID: 18874198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Breath_of_Fire_2_-_Fire_Background-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 12
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d925c3d7b1c4c434f84017bb1446b42d
+      internalID: -930791120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Breath_of_Fire_2_-_Fire_Background-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 11
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bb74b0200f1854db0b4b50e1c41618
+      internalID: -92604366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Breath_of_Fire_2_-_Fire_Background-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 2
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0325abe464ed644428215713f17de848
+      internalID: 200232723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game_Boy_Advance_-_Breath_of_Fire_2_-_Fire_Background-removebg-preview_13: -930791120
+      Game_Boy_Advance_-_Breath_of_Fire_2_-_Fire_Background-removebg-preview_8: -217594592
+      Game_Boy_Advance_-_Breath_of_Fire_2_-_Fire_Background-removebg-preview_10: 65617157
+      Game_Boy_Advance_-_Breath_of_Fire_2_-_Fire_Background-removebg-preview_14: -1714590141
+      Game_Boy_Advance_-_Breath_of_Fire_2_-_Fire_Background-removebg-preview_9: 1911248887
+      Game_Boy_Advance_-_Breath_of_Fire_2_-_Fire_Background-removebg-preview_11: -1655865592
+      Game_Boy_Advance_-_Breath_of_Fire_2_-_Fire_Background-removebg-preview_4: 1714282418
+      Game_Boy_Advance_-_Breath_of_Fire_2_-_Fire_Background-removebg-preview_7: -1077650950
+      Game_Boy_Advance_-_Breath_of_Fire_2_-_Fire_Background-removebg-preview_1: -244642058
+      Game_Boy_Advance_-_Breath_of_Fire_2_-_Fire_Background-removebg-preview_15: -92604366
+      Game_Boy_Advance_-_Breath_of_Fire_2_-_Fire_Background-removebg-preview_5: 895397761
+      Game_Boy_Advance_-_Breath_of_Fire_2_-_Fire_Background-removebg-preview_2: 1489558168
+      Game_Boy_Advance_-_Breath_of_Fire_2_-_Fire_Background-removebg-preview_12: 18874198
+      Game_Boy_Advance_-_Breath_of_Fire_2_-_Fire_Background-removebg-preview_16: 200232723
+      Game_Boy_Advance_-_Breath_of_Fire_2_-_Fire_Background-removebg-preview_0: -435199022
+      Game_Boy_Advance_-_Breath_of_Fire_2_-_Fire_Background-removebg-preview_3: 1181314340
+      Game_Boy_Advance_-_Breath_of_Fire_2_-_Fire_Background-removebg-preview_6: 1777257378
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
